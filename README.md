@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaoQuocUIT
-- 👀 I’m interested in Artificial Intelligent
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Computer Sience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
